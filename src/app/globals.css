@@ -554,6 +554,13 @@ body {
     transform: translateY(0);
   }
 
+  .page[data-view="section"] .response,
+  .page[data-view="section"] .entry:hover .response,
+  .page[data-view="section"] .entry:focus-within .response {
+    display: none;
+    transition: none;
+  }
+
   .footer {
     margin-top: 56px;
   }
