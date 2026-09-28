@@ -10,7 +10,7 @@ export const home = {
   name: "shlok punjabi",
   introduction: "people, companies, and things in between.",
   place: "new york · 2026",
-  closing: "still building · new york",
+  closing: "still building",
   entries: [
     {
       label: "my work",
